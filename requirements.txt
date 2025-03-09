@@ -1,0 +1,6 @@
+slack-bolt>=1.16.0
+jira>=3.4.1
+arxiv>=1.4.7
+openai>=1.0.0
+apscheduler>=3.10.0
+python-dotenv>=1.0.0
